@@ -1,0 +1,22 @@
+{
+  "name": "2jciebl01-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2jciebl01-log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaztakahashi/2jciebl01-log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaztakahashi/2jciebl01-log/issues"
+  },
+  "homepage": "https://github.com/kaztakahashi/2jciebl01-log#readme",
+  "dependencies": {
+    "noble": "^1.9.1"
+  }
+}
